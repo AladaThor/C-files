@@ -1,2 +1,2 @@
 # C-files
-Some C++ & C# files
+Some C++ files
